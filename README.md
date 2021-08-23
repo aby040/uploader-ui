@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 
 ## Reference
-[Demo UI](https://github.com/aby040/uploader)
+[Demo Server](https://github.com/aby040/uploader)
